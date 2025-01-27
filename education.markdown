@@ -5,7 +5,7 @@
 2. Humber College ( North Campus )
 - User Experience (UX) Design
 
-[About Me](index)
-[Employement History](employment)
-[Education](education)
-[Contact](contact) 
+[About Me](index) |
+ [Employement History](employment) |
+ [Education](education) |
+ [Contact](contact) 

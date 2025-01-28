@@ -10,8 +10,6 @@
 - **Location:** Toronto, Canada
 - **Year of Graduation:** [Insert Year of Graduation]
 
-## Navigation
-- [About Me](index)  
-- [Employment History](employment)  
-- [Education](education)  
-- [Contact](contact)
+Feel free to reach out through these channels. I'm always open to discussing design projects or collaborations!
+
+[About Me](index) | [Employment History](employment) | [Education](education) | [Contact](contact)

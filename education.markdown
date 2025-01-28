@@ -1,11 +1,17 @@
-# Education 
+# Education
 
-1. L. D. College of Engineering
-- Bachelor of Engineering (BE) in Information Technology
-2. Humber College ( North Campus )
-- User Experience (UX) Design
+## L. D. College of Engineering
+- **Degree:** Bachelor of Engineering (BE) in Information Technology
+- **Location:** Ahmedabad, Gujarat, India
+- **Year of Graduation:** [Insert Year of Graduation]
 
-[About Me](index) |
- [Employement History](employment) |
- [Education](education) |
- [Contact](contact) 
+## Humber College (North Campus)
+- **Program:** User Experience (UX) Design
+- **Location:** Toronto, Canada
+- **Year of Graduation:** [Insert Year of Graduation]
+
+## Navigation
+- [About Me](index)  
+- [Employment History](employment)  
+- [Education](education)  
+- [Contact](contact)

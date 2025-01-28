@@ -1,7 +1,6 @@
 # Mahak Patel Portfolio
 
-Mahak Patel is a designer focused on building brands and creating digital experiences. Currently, I live in Toronto, Canada.  
-I have over 3 years of experience as a UX designer, including working with Citi Bank through Accenture.
+Web Developer & UX Designer passionate about blending functionality with user-centered design. I solve problems to create clean, efficient, and engaging interfaces.
 
 ## About Me
 I specialize in creating intuitive user experiences, enhancing digital interactions, and solving design challenges across various platforms. My work focuses on user-centric design processes that improve customer satisfaction and engagement.
